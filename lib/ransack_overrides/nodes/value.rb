@@ -1,4 +1,4 @@
-require 'ransack/nodes'
+require 'ransack'
 
 # Add Chronic parsing to date and time casting
 module Ransack
